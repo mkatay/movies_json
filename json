@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+   
+    {
+      "id": 4,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Robert Zemeckis",
+      "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime",
+      "director": "Quentin Tarantino",
+      "poster": "https://image.tmdb.org/t/p/w500/dRZpdpKLgN9nk57zggJCs1TjJb4.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Sci-Fi",
+      "director": "The Wachowskis",
+      "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": "Drama",
+      "director": "David Fincher",
+      "poster": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genre": "Fantasy",
+      "director": "Peter Jackson",
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Avatar",
+      "year": 2009,
+      "genre": "Sci-Fi",
+      "director": "James Cameron",
+      "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "year": 2000,
+      "genre": "Action",
+      "director": "Ridley Scott",
+      "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "poster": "https://image.tmdb.org/t/p/w500/amvmeQWheahG3StKwIE1f7jRnkZ.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Social Network",
+      "year": 2010,
+      "genre": "Drama",
+      "director": "David Fincher",
+      "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+    },
+   
+    {
+  "id": 16,
+  "title": "La La Land",
+  "year": 2016,
+  "genre": "Comedy, Drama, Music",
+  "director": "Damien Chazelle",
+  "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+},
+    {
+      "id": 17,
+      "title": "Django Unchained",
+      "year": 2012,
+      "genre": "Western",
+      "director": "Quentin Tarantino",
+      "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+    },
+   {
+  "id": 18,
+  "title": "The Matrix",
+  "year": 1999,
+  "genre": "Action, Science Fiction",
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+},
+{
+  "id": 19,
+  "title": "Gladiator",
+  "year": 2000,
+  "genre": "Action, Drama, Adventure",
+  "director": "Ridley Scott",
+  "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+},
+    {
+      "id": 20,
+      "title": "The Lion King",
+      "year": 1994,
+      "genre": "Animation",
+      "director": "Roger Allers, Rob Minkoff",
+      "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    }
+  ]
